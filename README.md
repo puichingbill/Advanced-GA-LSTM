@@ -1,2 +1,2 @@
 # Advanced-GA-LSTM
-This repository, maintained by puichingbill,
+This repository, maintained by puichingbill, contains
