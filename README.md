@@ -1,2 +1,2 @@
 # Advanced-GA-LSTM
-This repository, maintain
+This repository, maintained by p
