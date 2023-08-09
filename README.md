@@ -1,2 +1,2 @@
 # Advanced-GA-LSTM
-This repository, maintained by puichingbill, contains an imple
+This repository, maintained by puichingbill, contains an implementa
