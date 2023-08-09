@@ -1,2 +1,2 @@
 # Advanced-GA-LSTM
-This repository, maintained by puichingbill, contains an implementation of hyperparamete
+This repository, maintained by puichingbill, contains an implementation of hyperparameter tun
