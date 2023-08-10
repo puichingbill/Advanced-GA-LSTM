@@ -1,2 +1,2 @@
 # Advanced-GA-LSTM
-This repository, maintained by puichingbill, contains an implementation of hyperparameter tuning of LSTM deep learning mo
+This repository, maintained by puichingbill, contains an implementation of hyperparameter tuning of LSTM deep learning model usin
